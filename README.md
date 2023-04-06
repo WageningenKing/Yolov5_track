@@ -219,8 +219,3 @@ $ python evolve.py --tracking-method strongsort --benchmark MOT17 --n-trials 100
 The set of hyperparameters leading to the best HOTA result are written to the tracker's config file.
 
 </details>
-
-## Contact 
-
-For Yolov5 StrongSORT OSNet bugs and feature requests please visit [GitHub Issues](https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet/issues). 
-For business inquiries or professional support requests please send an email to: yolov5.deepsort.pytorch@gmail.com
