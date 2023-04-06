@@ -1,5 +1,5 @@
 ## Notice: This project bases on https://github.com/mikel-brostrom/yolov8_tracking and Yolov5-7.0(https://github.com/ultralytics/yolov5)
-## -----------------------------------------------------------------------------------------------------------------------------------------------------
+## ----------------------------------------------------------------------------------
 
 # Real-time multi-object tracking and segmentation using Yolov5 with StrongSORT and OSNet
 
