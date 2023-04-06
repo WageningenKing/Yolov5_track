@@ -1,5 +1,6 @@
 # Real-time multi-object tracking and segmentation using Yolov5 with StrongSORT and OSNet
-
+# Base on https://github.com/mikel-brostrom/yolov8_tracking
+# Use Yolov5-7.0
 
 <div align="center">
   <p>
